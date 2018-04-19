@@ -1,0 +1,35 @@
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+.classpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+### Intellij ###
+*.iml
+/.idea/*
+!/.idea/runConfigurations
+out/
+
+### Maven ###
+target/
+pom.xml.*
+release.properties
+
+### Project ###
+logs/

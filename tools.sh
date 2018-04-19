@@ -5,4 +5,4 @@ sudo apt-get install locate
 sudo apt-get install htop
 sudo apt-get install tree
 sudo apt-get install gconf-editor
-
+sudo apt-get install alien

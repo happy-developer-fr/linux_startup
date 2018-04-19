@@ -1,0 +1,2 @@
+#!/bin/sh
+java -jar ~/apps/yed/yed.jar &>dev/null
